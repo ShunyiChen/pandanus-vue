@@ -30,15 +30,15 @@ Pandanus link is a free and open source enterprise cloud disk. Using the latest 
 - Get the project code
 
 ```bash
-git clone https://github.com/anncwb/vue-vben-admin.git
+git clone https://github.com/ShunyiChen/pandanus-vue.git
 ```
 
 - Installation dependencies
 
 ```bash
-cd vue-vben-admin
+cd pandanus-vue
 
-pnpm install
+pnpm i
 ```
 
 - run
